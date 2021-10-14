@@ -10,21 +10,21 @@ h1 {
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem; 
     margin-top: 50px auto 0 auto;
-    color: #66BFBF;
+    color: #2C6363;
     /* 100% = 16px = 1em , 90/16 *100 = the percentage value pr 90/16 = the em or rem*/
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
-    color: #66BFBF;
+    color: #2C6363;
     font-weight: normal;
     line-height: 2px;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #11999E;
+    color: #2C6363;
     padding: 10px;
 }
 div {
@@ -36,7 +36,7 @@ p {
 }
 
 a {
-    color: #11999e;
+    color: #2C6363;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
@@ -159,7 +159,7 @@ padding:50px 0 20px ;
       }
 
       .copyright{
-color: #EAF6F6;
+        color: #2C6363;
 font-size: 0.75rem;
 padding: 20px 10px;
       }
